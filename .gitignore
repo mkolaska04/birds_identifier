@@ -1,2 +1,22 @@
-.venv
-/CUB_200_2011
+# Ignoruj środowiska wirtualne
+.venv/
+venv/
+
+# Ignoruj dane (np. dataset)
+CUB_200_2011/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Notatniki i dane tymczasowe
+*.ipynb_checkpoints
+*.log
+*.tmp
+
+# Systemowe
+.DS_Store
+Thumbs.db
+
+# Modele / ciężkie pliki
+*.pth
