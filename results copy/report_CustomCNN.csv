@@ -1,0 +1,204 @@
+,precision,recall,f1-score,support
+Black footed Albatross,0.0,0.0,0.0,30.0
+Laysan Albatross,0.0,0.0,0.0,30.0
+Sooty Albatross,0.0,0.0,0.0,28.0
+Groove billed Ani,0.0,0.0,0.0,30.0
+Crested Auklet,0.0,0.0,0.0,14.0
+Least Auklet,0.0,0.0,0.0,11.0
+Parakeet Auklet,0.0,0.0,0.0,23.0
+Rhinoceros Auklet,0.0,0.0,0.0,18.0
+Brewer Blackbird,0.0,0.0,0.0,29.0
+Red winged Blackbird,0.0,0.0,0.0,30.0
+Rusty Blackbird,0.0,0.0,0.0,30.0
+Yellow headed Blackbird,0.0,0.0,0.0,26.0
+Bobolink,0.0,0.0,0.0,30.0
+Indigo Bunting,0.0,0.0,0.0,30.0
+Lazuli Bunting,0.0,0.0,0.0,28.0
+Painted Bunting,0.0,0.0,0.0,28.0
+Cardinal,0.0,0.0,0.0,27.0
+Spotted Catbird,0.0,0.0,0.0,15.0
+Gray Catbird,0.0,0.0,0.0,29.0
+Yellow breasted Chat,0.0,0.0,0.0,29.0
+Eastern Towhee,0.0,0.0,0.0,30.0
+Chuck will Widow,0.0,0.0,0.0,26.0
+Brandt Cormorant,0.0,0.0,0.0,29.0
+Red faced Cormorant,0.0,0.0,0.0,22.0
+Pelagic Cormorant,0.0,0.0,0.0,30.0
+Bronzed Cowbird,0.0,0.0,0.0,30.0
+Shiny Cowbird,0.0,0.0,0.0,30.0
+Brown Creeper,0.0,0.0,0.0,29.0
+American Crow,0.0,0.0,0.0,30.0
+Fish Crow,0.0,0.0,0.0,30.0
+Black billed Cuckoo,0.0,0.0,0.0,30.0
+Mangrove Cuckoo,0.0,0.0,0.0,23.0
+Yellow billed Cuckoo,0.0,0.0,0.0,29.0
+Gray crowned Rosy Finch,0.0,0.0,0.0,29.0
+Purple Finch,0.0,0.0,0.0,30.0
+Northern Flicker,0.0,0.0,0.0,30.0
+Acadian Flycatcher,0.0,0.0,0.0,29.0
+Great Crested Flycatcher,0.0,0.0,0.0,30.0
+Least Flycatcher,0.0,0.0,0.0,29.0
+Olive sided Flycatcher,0.0,0.0,0.0,30.0
+Scissor tailed Flycatcher,0.0,0.0,0.0,30.0
+Vermilion Flycatcher,0.0,0.0,0.0,30.0
+Yellow bellied Flycatcher,0.0,0.0,0.0,29.0
+Frigatebird,0.0,0.0,0.0,30.0
+Northern Fulmar,0.0,0.0,0.0,30.0
+Gadwall,0.0,0.0,0.0,30.0
+American Goldfinch,0.0,0.0,0.0,30.0
+European Goldfinch,0.0,0.0,0.0,30.0
+Boat tailed Grackle,0.0,0.0,0.0,30.0
+Eared Grebe,0.0,0.0,0.0,30.0
+Horned Grebe,0.0,0.0,0.0,30.0
+Pied billed Grebe,0.0,0.0,0.0,30.0
+Western Grebe,0.0,0.0,0.0,30.0
+Blue Grosbeak,0.0,0.0,0.0,30.0
+Evening Grosbeak,0.0,0.0,0.0,30.0
+Pine Grosbeak,0.0,0.0,0.0,30.0
+Rose breasted Grosbeak,0.0,0.0,0.0,30.0
+Pigeon Guillemot,0.0,0.0,0.0,28.0
+California Gull,0.0,0.0,0.0,30.0
+Glaucous winged Gull,0.0,0.0,0.0,29.0
+Heermann Gull,0.0,0.0,0.0,30.0
+Herring Gull,0.0,0.0,0.0,30.0
+Ivory Gull,0.0,0.0,0.0,30.0
+Ring billed Gull,0.0,0.0,0.0,30.0
+Slaty backed Gull,0.0,0.0,0.0,20.0
+Western Gull,0.0,0.0,0.0,30.0
+Anna Hummingbird,0.0,0.0,0.0,30.0
+Ruby throated Hummingbird,0.0,0.0,0.0,30.0
+Rufous Hummingbird,0.0,0.0,0.0,30.0
+Green Violetear,0.0,0.0,0.0,30.0
+Long tailed Jaeger,0.0,0.0,0.0,30.0
+Pomarine Jaeger,0.0,0.0,0.0,30.0
+Blue Jay,0.0,0.0,0.0,30.0
+Florida Jay,0.0,0.0,0.0,30.0
+Green Jay,0.0,0.0,0.0,27.0
+Dark eyed Junco,0.0,0.0,0.0,30.0
+Tropical Kingbird,0.0,0.0,0.0,30.0
+Gray Kingbird,0.0,0.0,0.0,29.0
+Belted Kingfisher,0.0,0.0,0.0,30.0
+Green Kingfisher,0.0,0.0,0.0,30.0
+Pied Kingfisher,0.0,0.0,0.0,30.0
+Ringed Kingfisher,0.0,0.0,0.0,30.0
+White breasted Kingfisher,0.0,0.0,0.0,30.0
+Red legged Kittiwake,0.003969623748705558,1.0,0.007907856283307547,23.0
+Horned Lark,0.0,0.0,0.0,30.0
+Pacific Loon,0.0,0.0,0.0,30.0
+Mallard,0.0,0.0,0.0,30.0
+Western Meadowlark,0.0,0.0,0.0,30.0
+Hooded Merganser,0.0,0.0,0.0,30.0
+Red breasted Merganser,0.0,0.0,0.0,30.0
+Mockingbird,0.0,0.0,0.0,30.0
+Nighthawk,0.0,0.0,0.0,30.0
+Clark Nutcracker,0.0,0.0,0.0,30.0
+White breasted Nuthatch,0.0,0.0,0.0,30.0
+Baltimore Oriole,0.0,0.0,0.0,30.0
+Hooded Oriole,0.0,0.0,0.0,30.0
+Orchard Oriole,0.0,0.0,0.0,29.0
+Scott Oriole,0.0,0.0,0.0,30.0
+Ovenbird,0.0,0.0,0.0,30.0
+Brown Pelican,0.0,0.0,0.0,30.0
+White Pelican,0.0,0.0,0.0,20.0
+Western Wood Pewee,0.0,0.0,0.0,30.0
+Sayornis,0.0,0.0,0.0,30.0
+American Pipit,0.0,0.0,0.0,30.0
+Whip poor Will,0.0,0.0,0.0,19.0
+Horned Puffin,0.0,0.0,0.0,30.0
+Common Raven,0.0,0.0,0.0,30.0
+White necked Raven,0.0,0.0,0.0,30.0
+American Redstart,0.0,0.0,0.0,30.0
+Geococcyx,0.0,0.0,0.0,30.0
+Loggerhead Shrike,0.0,0.0,0.0,30.0
+Great Grey Shrike,0.0,0.0,0.0,30.0
+Baird Sparrow,0.0,0.0,0.0,20.0
+Black throated Sparrow,0.0,0.0,0.0,30.0
+Brewer Sparrow,0.0,0.0,0.0,29.0
+Chipping Sparrow,0.0,0.0,0.0,30.0
+Clay colored Sparrow,0.0,0.0,0.0,29.0
+House Sparrow,0.0,0.0,0.0,30.0
+Field Sparrow,0.0,0.0,0.0,29.0
+Fox Sparrow,0.0,0.0,0.0,30.0
+Grasshopper Sparrow,0.0,0.0,0.0,30.0
+Harris Sparrow,0.0,0.0,0.0,30.0
+Henslow Sparrow,0.0,0.0,0.0,30.0
+Le Conte Sparrow,0.0,0.0,0.0,29.0
+Lincoln Sparrow,0.0,0.0,0.0,29.0
+Nelson Sharp tailed Sparrow,0.0,0.0,0.0,30.0
+Savannah Sparrow,0.0,0.0,0.0,30.0
+Seaside Sparrow,0.0,0.0,0.0,30.0
+Song Sparrow,0.0,0.0,0.0,30.0
+Tree Sparrow,0.0,0.0,0.0,30.0
+Vesper Sparrow,0.0,0.0,0.0,30.0
+White crowned Sparrow,0.0,0.0,0.0,30.0
+White throated Sparrow,0.0,0.0,0.0,30.0
+Cape Glossy Starling,0.0,0.0,0.0,30.0
+Bank Swallow,0.0,0.0,0.0,30.0
+Barn Swallow,0.0,0.0,0.0,30.0
+Cliff Swallow,0.0,0.0,0.0,30.0
+Tree Swallow,0.0,0.0,0.0,30.0
+Scarlet Tanager,0.0,0.0,0.0,30.0
+Summer Tanager,0.0,0.0,0.0,30.0
+Artic Tern,0.0,0.0,0.0,29.0
+Black Tern,0.0,0.0,0.0,30.0
+Caspian Tern,0.0,0.0,0.0,30.0
+Common Tern,0.0,0.0,0.0,30.0
+Elegant Tern,0.0,0.0,0.0,30.0
+Forsters Tern,0.0,0.0,0.0,30.0
+Least Tern,0.0,0.0,0.0,30.0
+Green tailed Towhee,0.0,0.0,0.0,30.0
+Brown Thrasher,0.0,0.0,0.0,29.0
+Sage Thrasher,0.0,0.0,0.0,30.0
+Black capped Vireo,0.0,0.0,0.0,21.0
+Blue headed Vireo,0.0,0.0,0.0,30.0
+Philadelphia Vireo,0.0,0.0,0.0,29.0
+Red eyed Vireo,0.0,0.0,0.0,30.0
+Warbling Vireo,0.0,0.0,0.0,30.0
+White eyed Vireo,0.0,0.0,0.0,30.0
+Yellow throated Vireo,0.0,0.0,0.0,29.0
+Bay breasted Warbler,0.0,0.0,0.0,30.0
+Black and white Warbler,0.0,0.0,0.0,30.0
+Black throated Blue Warbler,0.0,0.0,0.0,29.0
+Blue winged Warbler,0.0,0.0,0.0,30.0
+Canada Warbler,0.0,0.0,0.0,30.0
+Cape May Warbler,0.0,0.0,0.0,30.0
+Cerulean Warbler,0.0,0.0,0.0,30.0
+Chestnut sided Warbler,0.0,0.0,0.0,30.0
+Golden winged Warbler,0.0,0.0,0.0,29.0
+Hooded Warbler,0.0,0.0,0.0,30.0
+Kentucky Warbler,0.0,0.0,0.0,29.0
+Magnolia Warbler,0.0,0.0,0.0,29.0
+Mourning Warbler,0.0,0.0,0.0,30.0
+Myrtle Warbler,0.0,0.0,0.0,30.0
+Nashville Warbler,0.0,0.0,0.0,30.0
+Orange crowned Warbler,0.0,0.0,0.0,30.0
+Palm Warbler,0.0,0.0,0.0,30.0
+Pine Warbler,0.0,0.0,0.0,30.0
+Prairie Warbler,0.0,0.0,0.0,30.0
+Prothonotary Warbler,0.0,0.0,0.0,30.0
+Swainson Warbler,0.0,0.0,0.0,26.0
+Tennessee Warbler,0.0,0.0,0.0,29.0
+Wilson Warbler,0.0,0.0,0.0,30.0
+Worm eating Warbler,0.0,0.0,0.0,29.0
+Yellow Warbler,0.0,0.0,0.0,30.0
+Northern Waterthrush,0.0,0.0,0.0,30.0
+Louisiana Waterthrush,0.0,0.0,0.0,30.0
+Bohemian Waxwing,0.0,0.0,0.0,30.0
+Cedar Waxwing,0.0,0.0,0.0,30.0
+American Three toed Woodpecker,0.0,0.0,0.0,20.0
+Pileated Woodpecker,0.0,0.0,0.0,30.0
+Red bellied Woodpecker,0.0,0.0,0.0,30.0
+Red cockaded Woodpecker,0.0,0.0,0.0,29.0
+Red headed Woodpecker,0.0,0.0,0.0,30.0
+Downy Woodpecker,0.0,0.0,0.0,30.0
+Bewick Wren,0.0,0.0,0.0,30.0
+Cactus Wren,0.0,0.0,0.0,30.0
+Carolina Wren,0.0,0.0,0.0,30.0
+House Wren,0.0,0.0,0.0,30.0
+Marsh Wren,0.0,0.0,0.0,30.0
+Rock Wren,0.0,0.0,0.0,30.0
+Winter Wren,0.0,0.0,0.0,30.0
+Common Yellowthroat,0.0,0.0,0.0,30.0
+accuracy,0.003969623748705558,0.003969623748705558,0.003969623748705558,0.003969623748705558
+macro avg,1.984811874352779e-05,0.005,3.953928141653773e-05,5794.0
+weighted avg,1.5757912706287164e-05,0.003969623748705558,3.1391214103568104e-05,5794.0
